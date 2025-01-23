@@ -25,7 +25,7 @@ public class Pointt {
     }
     public void deplacer (int dx , int dy) {
         this.x = x+dx ;
-        this.y =y+dy ;
+        this.y =y+dy  ;
     }
     public void afficher (){
         System.out.println(" le x = "+x+" le y =  "+y);
