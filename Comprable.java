@@ -1,5 +1,6 @@
 package models;
 
-public interface Comprable {
+public interface Comprable 
+{
     int compareTo(Object o);
 }
